@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "503904194921",
+    "project_id": "internship-application-de66c",
+    "storage_bucket": "internship-application-de66c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503904194921:android:a9bfc4cd9cd6b21ecdedf8",
+        "android_client_info": {
+          "package_name": "com.example.application_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503904194921-ecpd53pa46lgctbr39hvr2us4q4i3nu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEnF3eNp5r_j1Mnv_rCYT3Dgwd3HUZP4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503904194921-ecpd53pa46lgctbr39hvr2us4q4i3nu3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "503904194921-hh6pp360ppcpk5iamc3mb2np7ujb3o06.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.applicationProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
