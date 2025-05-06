@@ -47,8 +47,8 @@ A comprehensive Flutter application with Firebase authentication, user profile m
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/flutter-auth-profile.git
-   cd flutter-auth-profile
+   git clone https://github.com/Aarush-Parashar/application_project.git
+   cd application_project
    ```
 
 2. Install dependencies:
