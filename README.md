@@ -2,7 +2,6 @@
 
 A comprehensive Flutter application with Firebase authentication, user profile management, and customizable settings.
 
-![Flutter Auth & Profile Manager](https://via.placeholder.com/800x400?text=Flutter+Auth+%26+Profile+Manager)
 
 ## Features
 
@@ -28,15 +27,6 @@ A comprehensive Flutter application with Firebase authentication, user profile m
   - Responsive Layouts
   - Platform-Specific UI Components (iOS/Android)
 
-## Screenshots
-
-<table>
-  <tr>
-    <td><img src="https://via.placeholder.com/250x500?text=Login+Screen" alt="Login Screen" /></td>
-    <td><img src="https://via.placeholder.com/250x500?text=Profile+Page" alt="Profile Page" /></td>
-    <td><img src="https://via.placeholder.com/250x500?text=Settings+Page" alt="Settings Page" /></td>
-  </tr>
-</table>
 
 ## Getting Started
 
@@ -144,8 +134,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Firebase](https://firebase.google.com/)
 - [Material Design](https://material.io/design)
 
-## Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/flutter-auth-profile](https://github.com/yourusername/flutter-auth-profile)
